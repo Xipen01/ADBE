@@ -58,7 +58,7 @@ pd {
     text-align: right; /* Por defecto, el texto es alineado a la derecha */
 }
 .mi-clase {
-   /*font-weight: bold;      Negrita */
+  font-weight: bold;      /* Negrita */
   color: black;        /* Color negro */
 }
 /* Estilo para el logo pequeño */
